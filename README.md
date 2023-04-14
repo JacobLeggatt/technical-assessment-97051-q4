@@ -2,9 +2,12 @@ OVERVIEW
 --------------------
 
 This is an implimentation of the BCGOV’s Simple Map Kit framework (https://github.com/bcgov/smk) designed to display 3 different Layers.
-.Special Protection Areas - All - Colour Filled
-.Great Bear Rainforest Forest Management Area - Outlined
-.Forest Development Units ( 1417 )
+
+Special Protection Areas - All - Colour Filled
+
+Great Bear Rainforest Forest Management Area - Outlined
+
+Forest Development Units ( 1417 )
 
 
 
