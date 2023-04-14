@@ -1,0 +1,13 @@
+{
+    "name": "technical-assessment-97051-q4",
+    "version": "0.0.1",
+    "description": "A program written for the technical assessment of Jacob Leggatt for the position of Senior Programmer Analyst",
+    "author": "Jacob Leggatt",
+    "dependencies": {
+        "@bcgov/smk": "1.1.9",
+        "http-server": "^0.12.3"
+    },
+    "scripts": {
+        "view": "http-server -o -c-1"
+    }
+}
